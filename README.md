@@ -126,5 +126,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 This implementation is inspired by simple neural network tutorials and aims to provide a step-by-step guide for beginners in machine learning and deep learning.
 
 ---
-
-Let me know if you need any changes!
